@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": { "model": "tdsm:sunkistsugarblock" },
+    "inventory": { "model": "tdsm:sunkistsugarblock" }
+  }
+}

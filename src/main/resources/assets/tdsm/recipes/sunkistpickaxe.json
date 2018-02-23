@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "III",
+    " S ",
+    " S "
+  ],
+
+  "key": {
+    "I": {
+      "item": "tdsm:sunkistingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+      "item": "tdsm:sunkistpickaxe"
+  }
+}

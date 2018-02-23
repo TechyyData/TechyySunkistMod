@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "tdsm:blocks/sunkist_workbench_top",
+    "north": "tdsm:blocks/sunkist_workbench_side",
+    "south": "tdsm:blocks/sunkist_workbench_front",
+    "east": "tdsm:blocks/sunkist_workbench_side",
+    "west": "tdsm:blocks/sunkist_workbench_side",
+    "down": "tdsm:blocks/sunkist_workbench_bottom"
+
+  }
+}

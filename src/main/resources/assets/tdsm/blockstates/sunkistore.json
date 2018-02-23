@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": { "model": "tdsm:sunkistore" },
+    "inventory": { "model": "tdsm:sunkistore" }
+  }
+}

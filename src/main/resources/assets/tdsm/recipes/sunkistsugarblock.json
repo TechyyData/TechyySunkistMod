@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "SS",
+    "SS"
+  ],
+
+  "key": {
+    "S": {
+      "item": "tdsm:sunkistsugar"
+    }
+  },
+
+  "result":
+  {
+    "block": "tdsm:sunkistsugarblock"
+  }
+}

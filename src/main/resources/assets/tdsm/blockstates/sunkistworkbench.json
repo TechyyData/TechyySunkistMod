@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": { "model": "tdsm:sunkistworkbench" },
+    "inventory": { "model": "tdsm:sunkistworkbench" }
+  }
+}
